@@ -1,3 +1,9 @@
+# The creators are:
+# Carmel Dor - 316015882
+# Segev Chen - 322433400
+# Gad Hasson - 207898123
+# Artiom Bondar - 332692730
+
 #  Creating a matrix of coefficients and the result vector
 def create_square_matrix(size):
 
