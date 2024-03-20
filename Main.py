@@ -3,7 +3,7 @@
 # Segev Chen - 322433400
 # Gad Hasson - 207898123
 # Artiom Bondar - 332692730
-
+#github link - https://github.com/Carlechinno/Homework2-NumericalAnalysis
 #  Creating a matrix of coefficients and the result vector
 def create_square_matrix(size):
 
